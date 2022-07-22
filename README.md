@@ -1,2 +1,2 @@
 # dockersonarqube
-Docker - SonarQube - Nginx - Certbot
+Docker - SonarQube - Nginx - Certbot - PostgreSQL
