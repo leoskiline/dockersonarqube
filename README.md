@@ -1,5 +1,6 @@
 # dockersonarqube
 Docker - SonarQube - Nginx - Certbot - PostgreSQL
+
 Step 1:
 Remove server listening on port 443 in /nginx/app.conf.
 
